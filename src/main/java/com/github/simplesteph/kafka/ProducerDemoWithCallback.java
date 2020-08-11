@@ -23,9 +23,8 @@ public class ProducerDemoWithCallback {
 
         // Criar o producer
         KafkaProducer<String, String> producer = new KafkaProducer<>(properties);
-
         for (int i = 0; i < 10; i++) {
-            
+
             // Criar os dados do Produtor
             ProducerRecord<String, String> record = new ProducerRecord<String, String>("first_topic", "hello world!");
 
