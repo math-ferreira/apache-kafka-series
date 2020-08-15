@@ -1,4 +1,4 @@
-package com.github.simplesteph.kafka;
+package com.github.simplesteph.kafka.tutorial1;
 
 import java.util.Properties;
 
