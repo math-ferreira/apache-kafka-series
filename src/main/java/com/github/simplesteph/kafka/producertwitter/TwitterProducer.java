@@ -1,4 +1,4 @@
-package com.github.simplesteph.kafka.tutorial2;
+package com.github.simplesteph.kafka.producertwitter;
 
 import java.util.List;
 import java.util.Properties;
