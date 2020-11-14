@@ -1,5 +1,6 @@
 # Sobre o Kafka
 ![image](https://user-images.githubusercontent.com/48540484/99150299-3b6c1b80-2672-11eb-928b-d549d82d9dc3.png)
+
 Para uma maior imersão, segue artigo publicado no medium: https://medium.com/@mat.s.ferreira/descomplicando-o-kafka-e-seus-conceitos-c58adcd6c56e
 # Creating Kafka Project
 ![image](https://user-images.githubusercontent.com/48540484/99150182-833e7300-2671-11eb-9ecc-85409b78a017.png)
