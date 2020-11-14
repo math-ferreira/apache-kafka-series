@@ -1,5 +1,5 @@
 # Sobre o Kafka
-Para uma introdução sobre o assunto, segue artigo publicado no medium:
+Para uma introdução sobre o assunto, segue artigo publicado no medium: <br>
 https://medium.com/@mat.s.ferreira/descomplicando-o-kafka-e-seus-conceitos-c58adcd6c56e
 
 ![image](https://user-images.githubusercontent.com/48540484/99150299-3b6c1b80-2672-11eb-928b-d549d82d9dc3.png)
